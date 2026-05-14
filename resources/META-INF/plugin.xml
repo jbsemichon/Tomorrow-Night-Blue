@@ -10,15 +10,14 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor>JB Industries</vendor>
 
     <idea-version since-build="251"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        Enter short description for your theme here.<br>
-        <em>most HTML tags may be used</em>
+        UI theme based on the Tomorrow Night Blue theme from VS Code.
         ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.

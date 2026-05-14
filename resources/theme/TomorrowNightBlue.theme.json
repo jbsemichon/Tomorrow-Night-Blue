@@ -1,17 +1,22 @@
 {
 	"name": "Tomorrow-Night-Blue",
-	"author": "JBIndustries",
+	"author": "JBS",
 	"dark": true,
 	"parentTheme": "Islands Dark",
 	"colors": {
 		"windowIcon": "#FFFFFF",
 		"windowInactive": "#0E1926",
 		"windowActive": "#001126",
+
 		"blueButtonBackgroundVSCode": "#0E639C",
+		"blueButtonHoverBackgroundVSCode": "#4C75C2",
+
 		"blueButtonBackgroundIntelliJ": "#3574F0",
 		"blueButonHoverBackground": "#1177BB",
+
 		"editorButtonHoverBackground": "#1C3655",
 		"toolbarHeaderButtonHoverBackground": "#2E3E52",
+
 		"notificationHeaderBackground": "#002453",
 		"notificationBackground": "#001C40",
 		"notificationHoverBackground": "#304664",
@@ -19,32 +24,41 @@
 		"notificationSelectedBorder": "#BAD9FF",
 		"pillNormalBackground": "#007ACC",
 		"fieldInactiveText": "#636F7D",
+
 		"toolbarBackground": "#001733",
 		"toolbarIcon": "#667485",
 		"toolbarIconSelected": "#FFFFFF",
+
 		"tableItemFocusedBackground": "#1C3C64",
 		"tableItemHoverBackground": "#0F315B",
+
 		"toolBackground": "#001C40",
 		"toolHeaderBackground": "#1A304D",
 		"toolSelectedFile": "#617289",
 		"toolSelectedFileNotFocused": "#405570",
 		"toolSelectedFileFileBorder": "#FFFFFF",
 		"toolFileHover": "#304764",
+
 		"tooltipSeperator": "#213858",
 		"tooltipBorder": "#445F80",
+
 		"sideBarPopUpBorder": "#435772",
 		"scrollElement": "#304661",
 		"scrollElementHover": "#46515E",
+
 		"popupMenuSelectedItem": "#616F81",
 		"menuBarSelectedMenu": "#1C2937",
+
 		"versionControlPopUpHeaderBackground": "#252526",
 		"versionControlPopUpBorder": "#1B81A8",
 		"versionControlPopUpIcon": "#C5C5C5",
+
 		"editorBackground": "#002451",
 		"currentLine": "#00346E",
 		"selection": "#003F8E",
 		"foreground": "#FFFFFF",
 		"comment": "#7285B7",
+
 		"red": "#FF9DA4",
 		"faint_red": "#FFCCCF",
 		"orange": "#FFC58F",
@@ -63,7 +77,7 @@
 		},
 
 		"ToolWindow.background": "toolBackground",
-		"ToolWindow.Stripe.background": "aqua",
+		"ToolWindow.Stripe.background": "windowActive",
 		"ToolWindow.Header.inactiveBackground": "toolHeaderBackground",
 		"ToolWindow.HeaderTab.hoverBackground": "green",
 		"ToolWindow.Header.background": "green",
@@ -104,19 +118,20 @@
 		"SegmentedButton.selectedButtonColor": "blueButtonBackgroundIntelliJ",
 		"SegmentedButton.focusedSelectedButtonColor": "purple",
 
-		"DefaultTabs.background": "green",
+		"DefaultTabs.background": "toolBackground",
 
 		"Menu.background": "toolbarBackground",
 		"Menu.selectionBackground": "popupMenuSelectedItem",
 		"MenuItem.background": "toolbarBackground",
 
 		"MainToolbar.background": "toolbarBackground",
+		"MainToolbar.inactiveBackground": "windowActive",
 
 		"BigSpinner.background": "green",
 
 		"AlertDialog.background": "toolBackground",
 
-		"Label.background": "aqua",
+		"Label.background": "yellow",
 
 		"Island.borderColor": "windowActive",
 
@@ -136,7 +151,7 @@
 		"ScrollBar.thumbColor": "scrollElement",
 		"ScrollBar.hoverThumbColor": "scrollElement",
 
-		"StatusBar.background": "green",
+		"StatusBar.background": "windowActive",
 
 		"TextField.background": "toolBackground",
 		"TextArea.background": "editorBackground",
@@ -199,6 +214,13 @@
 		"ComboBoxButton.background": "editorBackground",
 		"ComboBox.nonEditableBackground": "toolBackground",
 		"ComboBox.ArrowButton.nonEditableBackground": "toolBackground",
+
+		"TrialWidget.Default.background": "blueButtonBackgroundVSCode",
+		"TrialWidget.Default.foreground": "foreground",
+		"TrialWidget.Default.borderColor": "tooltipBorder",
+		"TrialWidget.Default.hoverBackground": "blueButtonHoverBackgroundVSCode",
+		"TrialWidget.Default.hoverForeground": "foreground",
+		"TrialWidget.Default.hoverBorderColor": "tooltipBorder",
 
 		"PopupMenu.background": "toolbarBackground",
 		"PopupMenu.selectionForeground": "yellow",
