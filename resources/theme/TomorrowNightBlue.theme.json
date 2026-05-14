@@ -168,7 +168,7 @@
 		"Tag.background": "green",
 		"NotificationsToolwindow.newNotification.background": "editorBackground",
 		"NotificationsToolwindow.newNotification.hoverBackground": "notificationHoverBackground",
-		"NotificationsToolwindow.Notification.hoverBackground": "green",
+		"NotificationsToolwindow.Notification.hoverBackground": "notificationHoverBackground",
 		"Notification.ToolWindow.informativeBorderColor": "red",
 		"Notification.ToolWindow.informativeBackground": "green",
 		"Notification.MoreButton.innerBorderColor": "yellow",
@@ -228,6 +228,9 @@
 
 		"VersionControl.MarkerPopup.Toolbar.background": "versionControlPopUpHeaderBackground",
 		"VersionControl.MarkerPopup.borderColor": "versionControlPopUpBorder",
+
+		"NewClass.Panel.background": "toolbarBackground",
+		"NewClass.SearchField.background": "toolbarBackground",
 
 		"Code": {
 			"Inline": {
