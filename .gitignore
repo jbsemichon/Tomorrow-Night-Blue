@@ -1,2 +1,5 @@
 out
 *.jar
+*.crt
+*.pem
+*-signed.zip

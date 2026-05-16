@@ -1,0 +1,24 @@
+Main colours: #002451, #FF9DA4, #FFC58F, #FFEEAD, #D1F1A9, #99FFFF, #BBDAFF, #EBBBFF
+
+
+.gradient {
+    background-image: linear-gradient(to right, #003366, #ff8a99, #ffbf66);
+}
+
+<span class="bg-gradient-to-r from-[#003366] via-[#ff8a99] to-[#ffbf66]"></span>
+
+
+<div id="gradient-preview" style="background: linear-gradient(135deg, #002451, #FF9DA4, #FFC58F)"></div>
+<div id="gradient-preview" style="background: linear-gradient(90deg, #99FFFF, #BBDAFF, #EBBBFF)"></div>
+<div id="gradient-preview" style="background: linear-gradient(120deg, #D1F1A9, #FFEEAD, #FFC58F)"></div>
+<div id="gradient-preview" style="background: linear-gradient(135deg, #002451, #99FFFF, #EBBBFF)"></div>
+<div id="gradient-preview" style="background: linear-gradient(90deg, #FF9DA4, #FFEEAD, #99FFFF)"></div>
+<div id="gradient-preview" style="background: linear-gradient(90deg, #FF9DA4, #FFC58F, #FFEEAD, #D1F1A9, #99FFFF, #BBDAFF, #EBBBFF)"></div>
+<div id="gradient-preview" style="background: linear-gradient(120deg, #002451, #BBDAFF, #99FFFF)"></div>
+<div id="gradient-preview" style="background: linear-gradient(135deg, #EBBBFF, #FFEEAD, #FF9DA4)"></div>
+<div id="gradient-preview" style="background: linear-gradient(135deg, #002451, #D1F1A9, #FFC58F)"></div>
+<div id="gradient-preview" style="background: linear-gradient(90deg, #002451 0%, #FF9DA4 25%, #FFEEAD 50%, #99FFFF 75%, #EBBBFF 100%)"></div>
+
+background: linear-gradient(90deg, #FF9DA4, #FFEEAD, #99FFFF)
+
+<div id="gradient-preview" style="background: linear-gradient(90deg, #FF9DA4, #FFEEAD, #99FFFF)"></div>
