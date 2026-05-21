@@ -3,6 +3,7 @@
 	"author": "JBS",
 	"dark": true,
 	"parentTheme": "Islands Dark",
+	"editorScheme": "/theme/editor-scheme.icls",
 	"colors": {
 		"windowIcon": "#FFFFFF",
 		"windowInactive": "#0E1926",
